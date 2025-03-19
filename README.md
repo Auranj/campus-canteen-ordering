@@ -1,9 +1,5 @@
 # campus-canteen-ordering
 数据库原理课程作业：实现校园食堂点餐系统
-<div align="center">
-  <a><img src="img/logo.png" align="center" alt="logo" width="60%"/></a>
-</div>
-
 ---
 
 <p align="center">
@@ -109,16 +105,5 @@ django_CCOS
    - 自行添加食堂、窗口、菜品，否则初始不显示
 
 
-## 效果图 :yum:
-
-![image-20211107210032459](img/image-20211107210032459.png)
-
-![image-20211107210104324](img/image-20211107210104324.png)
-
-![image-20211107210220338](img/image-20211107210220338.png)
-
-![image-20211107210124156](img/image-20211107210124156.png)
-
-![image-20211107210146836](img/image-20211107210146836.png)
 
 
