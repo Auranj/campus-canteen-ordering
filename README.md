@@ -1,16 +1,16 @@
 # campus-canteen-ordering
 数据库原理课程作业：实现校园食堂点餐系统
 <div align="center">
-  <a href="https://github.com/hewei2001/campus-canteen-ordering"><img src="img/logo.png" align="center" alt="logo" width="60%"/></a>
+  <a><img src="img/logo.png" align="center" alt="logo" width="60%"/></a>
 </div>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/hewei2001/campus-canteen-ordering"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.8-FF1493.svg"></a>
-    <a href="https://github.com/hewei2001/campus-canteen-ordering"><img src="https://img.shields.io/github/repo-size/hewei2001/campus-canteen-ordering"></a>
-    <a href="https://github.com/hewei2001/campus-canteen-ordering/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hewei2001/campus-canteen-ordering"></a> 
+    <a><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a><img src="https://img.shields.io/badge/Python-3.8-FF1493.svg"></a>
+    <a><img src="https://img.shields.io/github/repo-size/hewei2001/campus-canteen-ordering"></a>
+    <a><img src="https://img.shields.io/github/license/hewei2001/campus-canteen-ordering"></a> 
 </p>
 
 # <p align="center">Campus Canteen Ordering System</p>
@@ -85,7 +85,7 @@ django_CCOS
 
 1. 初始化：
 
-   - 克隆本项目 `git clone https://github.com/hewei2001/campus-canteen-ordering.git`
+   - 克隆本项目
 
    - 卸载原依赖 `pip uninstall -y -r requirement.txt`
 
@@ -121,9 +121,4 @@ django_CCOS
 
 ![image-20211107210146836](img/image-20211107210146836.png)
 
-## 鸣谢 :love_letter:
-
-感谢 [Yiwen-Ding](https://github.com/Yiwen-Ding) 小朋友！
-
-BTW，如果这个项目帮到了你，就点个 :star: 吧 ~
 
