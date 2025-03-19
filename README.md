@@ -11,7 +11,7 @@
 
 # <p align="center">Campus Canteen Ordering System</p>
 
-HITSZ 2021 年秋季学期「数据库设计」课程实验项目，基于 MySQL+Django 实现**校园食堂点餐系统**。
+HZAU 2024 年春季学期「数据库设计」课程实验项目，基于 MySQL+Django 实现**校园食堂点餐系统**。
 
 
 主要环境：
